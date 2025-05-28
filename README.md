@@ -51,7 +51,3 @@ To the use custom video player:
 1. **Add Your Video**: Place your video files in the `videos/` directory.
 2. **Update HTML**: Modify the `<source>` tag in `index.html` to point to your video file.
 3. **Customize Controls**: Edit `script.js` and `styles.css` to change the behavior and appearance of the controls as needed.
-
-## License
-
-This project is open-source and available under the MIT License.
